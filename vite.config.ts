@@ -8,4 +8,5 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
   assetsInclude: ['**/*.JPG', '**/*.jpg', '**/*.PNG', '**/*.png'],
+  
 });
